@@ -5,5 +5,89 @@
     "source_sha256": "a6b31691070bfa86f6ae9992f511e888c21bda059851637582ca0d26254b4092",
     "sha256": "9c136ae123d6b09df08410d64998a768f1015635ebc47460b75970c73ac34b2c",
     "modified": true
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Assem1.SLDASM",
+    "destination": "hardware/cad/assembly/Assem1.SLDASM",
+    "source_sha256": "6a2b89e74f4a73bf8e264d2779997fbe127cafb1e6d7f52b226a076d9e3359f2",
+    "sha256": "6a2b89e74f4a73bf8e264d2779997fbe127cafb1e6d7f52b226a076d9e3359f2",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Base1.SLDPRT",
+    "destination": "hardware/cad/parts/Base1.SLDPRT",
+    "source_sha256": "5ea145d45a342708a783f997ba1efaf1b6dbead6c6e5e2876a634df46ce3fd33",
+    "sha256": "5ea145d45a342708a783f997ba1efaf1b6dbead6c6e5e2876a634df46ce3fd33",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Base2.SLDPRT",
+    "destination": "hardware/cad/parts/Base2.SLDPRT",
+    "source_sha256": "71b75bd67416e73bf21642aa2ee6f7bb319f40f0b4eb2446bd94e628c0fc1a42",
+    "sha256": "71b75bd67416e73bf21642aa2ee6f7bb319f40f0b4eb2446bd94e628c0fc1a42",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Middle 1.SLDPRT",
+    "destination": "hardware/cad/parts/Middle 1.SLDPRT",
+    "source_sha256": "378e5bcf9d7dcc2ac76999d0a3280fd18ab6847affe0edc22b1574bc09f4c412",
+    "sha256": "378e5bcf9d7dcc2ac76999d0a3280fd18ab6847affe0edc22b1574bc09f4c412",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Middle 2.SLDPRT",
+    "destination": "hardware/cad/parts/Middle 2.SLDPRT",
+    "source_sha256": "c03416d45ccc9c0131db4a16f105cf4df07dd3197ac75810de7cc3edc83019ce",
+    "sha256": "c03416d45ccc9c0131db4a16f105cf4df07dd3197ac75810de7cc3edc83019ce",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\TEST.SLDPRT",
+    "destination": "hardware/cad/parts/Top_Planter.SLDPRT",
+    "source_sha256": "6adc5042af18e49ee381e28b62d1152e0789fed4c675bdc8adeabd0c29e33ee3",
+    "sha256": "6adc5042af18e49ee381e28b62d1152e0789fed4c675bdc8adeabd0c29e33ee3",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Base1.STL",
+    "destination": "hardware/stl/Base_Enclosure.STL",
+    "source_sha256": "182929d6b10364076aae116302e8dc9bae9aa5c964c8265e0f5b2380d189cc4d",
+    "sha256": "182929d6b10364076aae116302e8dc9bae9aa5c964c8265e0f5b2380d189cc4d",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Middle 1.STL",
+    "destination": "hardware/stl/Middle_Adapter_1.STL",
+    "source_sha256": "ff9b8fd7b1566b879ef8dc232e5792b89edf004d5e4566f1e5293c7f1b003935",
+    "sha256": "ff9b8fd7b1566b879ef8dc232e5792b89edf004d5e4566f1e5293c7f1b003935",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\Middle 2.STL",
+    "destination": "hardware/stl/Middle_Adapter_2.STL",
+    "source_sha256": "fa71b0cc1732d861ebebf63f032d6866c872fde2a1e6b9c17babba86bd03a3a6",
+    "sha256": "fa71b0cc1732d861ebebf63f032d6866c872fde2a1e6b9c17babba86bd03a3a6",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\SW PROJECT\\TEST.STL",
+    "destination": "hardware/stl/Top_Planter.STL",
+    "source_sha256": "5ab0da664739a658837a93384946c38f4f383e5a02cd43129a540da2219eb888",
+    "sha256": "5ab0da664739a658837a93384946c38f4f383e5a02cd43129a540da2219eb888",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\pic\\NodeMCU8266 PCB 1.pdf",
+    "destination": "hardware/pcb/NodeMCU8266_PCB.pdf",
+    "source_sha256": "2d77e4d5d4a715f4ef50ddba2e616fabf4e8521d3abd2c7ffb676eaa79cc2a72",
+    "sha256": "2d77e4d5d4a715f4ef50ddba2e616fabf4e8521d3abd2c7ffb676eaa79cc2a72",
+    "modified": false
+  },
+  {
+    "source": "จารย์คอสmini\\PCB SENSOR.pdf",
+    "destination": "hardware/pcb/PCB_Sensor_Etch_Layout.pdf",
+    "source_sha256": "02eaac4602788b23717e77417a37720cec06e0055c9512cb4cd096e4d6d5a6c0",
+    "sha256": "02eaac4602788b23717e77417a37720cec06e0055c9512cb4cd096e4d6d5a6c0",
+    "modified": false
   }
 ]
