@@ -139,11 +139,13 @@ iot-mini-project-soil-moisture/
 
 ---
 
-<h2 align="center">ผู้จัดทำ (Project Collaborators)</h2>
+<div align="center">
 
-<p align="center">โปรเจ็กนี้ร่วมกันพัฒนาโดย</p>
+<h2>ผู้จัดทำ (Project Collaborators)</h2>
 
-<table align="center">
+<p>โปรเจ็กนี้ร่วมกันพัฒนาโดย</p>
+
+<table>
   <tr>
     <td align="center" valign="top" width="260">
       <a href="https://github.com/Painter121">
@@ -159,3 +161,5 @@ iot-mini-project-soil-moisture/
     </td>
   </tr>
 </table>
+
+</div>
