@@ -136,3 +136,26 @@ iot-mini-project-soil-moisture/
   - **ความละเอียด (Layer Height):** 0.2 mm
   - **ความหนาแน่นเนื้อใน (Infill):** 20% – 30% (ลวดลาย Gyroid หรือ Grid เพื่อความแข็งแรง)
   - **ผนังรอบนอก (Wall Loops):** 3 ชั้นขึ้นไปเพื่อป้องกันการซึมของละอองน้ำ
+
+---
+
+## ผู้จัดทำ (Project Collaborators)
+
+โปรเจ็กนี้ร่วมกันพัฒนาโดย
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Painter121">
+        <img src="https://github.com/Painter121.png?size=120" width="100" alt="Painter121"><br>
+        <strong>Painter121</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MIBVI">
+        <img src="https://github.com/MIBVI.png?size=120" width="100" alt="MIBVI"><br>
+        <strong>akkharadech Suphachoktharasap (@MIBVI)</strong>
+      </a>
+    </td>
+  </tr>
+</table>
