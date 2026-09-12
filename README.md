@@ -156,7 +156,7 @@ iot-mini-project-soil-moisture/
     <td align="center" valign="top" width="260">
       <a href="https://github.com/MIBVI">
         <img src="https://github.com/MIBVI.png?size=120" width="110" height="110" alt="MIBVI"><br>
-        <strong>MIBVI</strong>
+        <strong>MIBVI_I</strong>
       </a>
     </td>
   </tr>
