@@ -139,22 +139,22 @@ iot-mini-project-soil-moisture/
 
 ---
 
-## ผู้จัดทำ (Project Collaborators)
+<h2 align="center">ผู้จัดทำ (Project Collaborators)</h2>
 
-โปรเจ็กนี้ร่วมกันพัฒนาโดย
+<p align="center">โปรเจ็กนี้ร่วมกันพัฒนาโดย</p>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="260">
       <a href="https://github.com/Painter121">
-        <img src="https://github.com/Painter121.png?size=120" width="100" alt="Painter121"><br>
+        <img src="https://github.com/Painter121.png?size=120" width="110" height="110" alt="Painter121"><br>
         <strong>Painter121</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="260">
       <a href="https://github.com/MIBVI">
-        <img src="https://github.com/MIBVI.png?size=120" width="100" alt="MIBVI"><br>
-        <strong>akkharadech Suphachoktharasap (@MIBVI)</strong>
+        <img src="https://github.com/MIBVI.png?size=120" width="110" height="110" alt="MIBVI"><br>
+        <strong>MIBVI</strong>
       </a>
     </td>
   </tr>
